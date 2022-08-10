@@ -1,10 +1,9 @@
 import React from "react";
-// import ieb from "./ieb.png"
 function Card() {
   return (
     <div className="card">
       <div className="header-content">
-        <div>{/* <img src={require("./ieb.png")} /> */}</div>
+        <div><img src="./images/ieb.png" /></div>
         <div className="bio">
           <h2 style={{color:'#996666'}}>Engr. Md. Raduan Islam</h2>
           <p>Software Engineer, Large IT Solution, Dhaka</p>
