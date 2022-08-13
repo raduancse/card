@@ -14,7 +14,8 @@ function Card() {
       <div className="footer-content">
         <p>Mobile: +8801675386216</p>
         <p>E-mail: raduan.cse@gmail.com</p>
-        <p>Web: https://github.com/raduancse</p>
+        <p>Github: https://github.com/raduancse</p>
+        <p>Portfolio:https://raduancse.github.io/portfolio/</p>
       </div>
     </div>
   );
